@@ -1,0 +1,14 @@
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\bin\Debug\net6.0\DotNetRoadMap.exe
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\bin\Debug\net6.0\DotNetRoadMap.deps.json
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\bin\Debug\net6.0\DotNetRoadMap.runtimeconfig.json
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\bin\Debug\net6.0\DotNetRoadMap.dll
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\bin\Debug\net6.0\DotNetRoadMap.pdb
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\obj\Debug\net6.0\DotNetRoadMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\obj\Debug\net6.0\DotNetRoadMap.AssemblyInfoInputs.cache
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\obj\Debug\net6.0\DotNetRoadMap.AssemblyInfo.cs
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\obj\Debug\net6.0\DotNetRoadMap.csproj.CoreCompileInputs.cache
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\obj\Debug\net6.0\DotNetRoadMap.dll
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\obj\Debug\net6.0\refint\DotNetRoadMap.dll
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\obj\Debug\net6.0\DotNetRoadMap.pdb
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\obj\Debug\net6.0\DotNetRoadMap.genruntimeconfig.cache
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\obj\Debug\net6.0\ref\DotNetRoadMap.dll

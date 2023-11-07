@@ -1,0 +1,14 @@
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\bin\Debug\net6.0\UsefulMethods.exe
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\bin\Debug\net6.0\UsefulMethods.deps.json
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\bin\Debug\net6.0\UsefulMethods.runtimeconfig.json
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\bin\Debug\net6.0\UsefulMethods.dll
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\bin\Debug\net6.0\UsefulMethods.pdb
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\obj\Debug\net6.0\UsefulMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\obj\Debug\net6.0\UsefulMethods.AssemblyInfoInputs.cache
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\obj\Debug\net6.0\UsefulMethods.AssemblyInfo.cs
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\obj\Debug\net6.0\UsefulMethods.csproj.CoreCompileInputs.cache
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\obj\Debug\net6.0\UsefulMethods.dll
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\obj\Debug\net6.0\refint\UsefulMethods.dll
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\obj\Debug\net6.0\UsefulMethods.pdb
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\obj\Debug\net6.0\UsefulMethods.genruntimeconfig.cache
+C:\Users\Simofatt\LeatCode\DotNetRoadMap\UsefulMethods\obj\Debug\net6.0\ref\UsefulMethods.dll
