@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simofatt\\LeatCode\\DotNetRoadMap\\UsefulMethods\\UsefulMethods.csproj",
+      "projectUniqueName": "C:\\Users\\Simofatt\\CSharpFundamentals\\DotNetRoadMap\\UsefulMethods\\UsefulMethods.csproj",
       "projectName": "UsefulMethods",
-      "projectPath": "C:\\Users\\Simofatt\\LeatCode\\DotNetRoadMap\\UsefulMethods\\UsefulMethods.csproj",
+      "projectPath": "C:\\Users\\Simofatt\\CSharpFundamentals\\DotNetRoadMap\\UsefulMethods\\UsefulMethods.csproj",
       "packagesPath": "C:\\Users\\Simofatt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simofatt\\LeatCode\\DotNetRoadMap\\UsefulMethods\\obj\\",
+      "outputPath": "C:\\Users\\Simofatt\\CSharpFundamentals\\DotNetRoadMap\\UsefulMethods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Simofatt\\AppData\\Roaming\\NuGet\\NuGet.Config",
