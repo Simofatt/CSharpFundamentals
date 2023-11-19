@@ -33,3 +33,17 @@ C:\Users\Simofatt\LeetCode\DataStructure\bin\Debug\net6.0\LeetCode.dll
 C:\Users\Simofatt\LeetCode\DataStructure\bin\Debug\net6.0\LeetCode.pdb
 C:\Users\Simofatt\LeetCode\DataStructure\obj\Debug\net6.0\DataStructure.csproj.AssemblyReference.cache
 C:\Users\Simofatt\LeetCode\DataStructure\obj\Debug\net6.0\DataStructure.csproj.CopyComplete
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\obj\Debug\net6.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\obj\Debug\net6.0\DataStructure.AssemblyInfoInputs.cache
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\obj\Debug\net6.0\DataStructure.AssemblyInfo.cs
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\obj\Debug\net6.0\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\obj\Debug\net6.0\DataStructure.dll
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\obj\Debug\net6.0\refint\DataStructure.dll
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\obj\Debug\net6.0\DataStructure.pdb
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\bin\Debug\net6.0\DataStructure.exe
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\bin\Debug\net6.0\DataStructure.deps.json
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\bin\Debug\net6.0\DataStructure.runtimeconfig.json
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\bin\Debug\net6.0\DataStructure.dll
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\bin\Debug\net6.0\DataStructure.pdb
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\obj\Debug\net6.0\DataStructure.genruntimeconfig.cache
+C:\Users\Simofatt\CSharpFundamentals\DataStructure\obj\Debug\net6.0\ref\DataStructure.dll

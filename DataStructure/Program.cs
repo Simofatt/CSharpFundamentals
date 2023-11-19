@@ -1,6 +1,6 @@
 ﻿using DataStructure.Arrays;
 using DataStructure.Dictionnary;
-
+using DataStructure.Graphs;
 
 namespace DataStructure
 
@@ -71,7 +71,15 @@ namespace DataStructure
 
 
 
+            //DEPTH FIRST TRAVERSAL : 
 
+            DFT.DepthFirstPrint('a');
+            Console.WriteLine("RECURSVIE DFT: ");
+            DFT.DepthFirstPrintRecursive('a');
+
+            //BREATH FIRST TRAVERSAL 
+            Console.WriteLine(" BFT: ");
+            BFT.BreathFirstPrint('a');
 
 
 

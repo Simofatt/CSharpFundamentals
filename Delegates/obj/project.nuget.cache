@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bPEHBaILkxfHODcx6m8lt3M4SprzU6lMGqtzdQ9B338/LaFUxQ2Bbsuq3ZXpTDo+ZivjCLnwa0kUxKvNCu6FYw==",
+  "dgSpecHash": "Jl07iDIN8ZL/nMlr5jAWvACirCRIWWx3YOdBgV2ddysc0WD8hTrQIdrUtsyf+H6lYEfr0z5Av6ySzugPxUyaig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simofatt\\LeatCode\\Delegates\\Delegates.csproj",
+  "projectFilePath": "C:\\Users\\Simofatt\\CSharpFundamentals\\Delegates\\Delegates.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

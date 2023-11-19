@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simofatt\\LeatCode\\Delegates\\Delegates.csproj",
+      "projectUniqueName": "C:\\Users\\Simofatt\\CSharpFundamentals\\Delegates\\Delegates.csproj",
       "projectName": "Delegates",
-      "projectPath": "C:\\Users\\Simofatt\\LeatCode\\Delegates\\Delegates.csproj",
+      "projectPath": "C:\\Users\\Simofatt\\CSharpFundamentals\\Delegates\\Delegates.csproj",
       "packagesPath": "C:\\Users\\Simofatt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simofatt\\LeatCode\\Delegates\\obj\\",
+      "outputPath": "C:\\Users\\Simofatt\\CSharpFundamentals\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Simofatt\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simofatt\\LeatCode\\DataStructure\\DataStructure.csproj": {}
+    "C:\\Users\\Simofatt\\CSharpFundamentals\\DataStructure\\DataStructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simofatt\\LeatCode\\DataStructure\\DataStructure.csproj": {
+    "C:\\Users\\Simofatt\\CSharpFundamentals\\DataStructure\\DataStructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simofatt\\LeatCode\\DataStructure\\DataStructure.csproj",
+        "projectUniqueName": "C:\\Users\\Simofatt\\CSharpFundamentals\\DataStructure\\DataStructure.csproj",
         "projectName": "DataStructure",
-        "projectPath": "C:\\Users\\Simofatt\\LeatCode\\DataStructure\\DataStructure.csproj",
+        "projectPath": "C:\\Users\\Simofatt\\CSharpFundamentals\\DataStructure\\DataStructure.csproj",
         "packagesPath": "C:\\Users\\Simofatt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simofatt\\LeatCode\\DataStructure\\obj\\",
+        "outputPath": "C:\\Users\\Simofatt\\CSharpFundamentals\\DataStructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simofatt\\AppData\\Roaming\\NuGet\\NuGet.Config",
