@@ -84,6 +84,8 @@ namespace DataStructure
 
 
 
+            //TWO DIM 
+            TwoDim.Print();
 
 
             Console.ReadKey();
